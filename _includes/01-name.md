@@ -1,5 +1,5 @@
-# <h1>H1 Text</h1>
-###### <h1>H1 Text</h1>
+# <h1>Title</h1>
+###### <h2>Subtitle</h2>
 
 
 
